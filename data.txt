@@ -1,0 +1,1 @@
+mongodb+srv://shriyasinghthakurnithu_db_user:Am0dp0RYhpVZc8yj@cluster0.zcpuqwl.mongodb.net/
